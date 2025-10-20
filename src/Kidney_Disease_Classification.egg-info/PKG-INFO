@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: Kidney_Disease_Classification
+Version: 0.0.0
+Summary: Kidney disease classification based on deep learning, dvc, and mlflow
+Home-page: https://github.com/Kajal/Kidney-Disease-Classification-Deep-Learning-Project
+Author: Kajal
+Author-email: kajalmishra0829@gmail.com
+Project-URL: Bug Tracker, https://github.com/Kajal/Kidney-Disease-Classification-Deep-Learning-Project/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
