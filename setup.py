@@ -1,12 +1,12 @@
 import setuptools
 
-with open("README.md", "r", encoding="utf-8")as f:
+with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 __version__ = "0.0.0"
 
 REPO_NAME = "Kidney-Disease-Classification-Deep-Learning-Project"
-AUTHOR_USER_NAME = "Kajal"
+AUTHOR_USER_NAME = "KajalMishra-29"
 SRC_REPO = "Kidney_Disease_Classification"
 AUTHOR_EMAIL = "kajalmishra0829@gmail.com"
 
@@ -25,3 +25,6 @@ setuptools.setup(
     package_dir={"":"src"},
     packages=setuptools.find_packages(where="src")
 )
+
+# setup.py is the build script for Python packages.
+# turns code into an installable Python package — something you can install using pip install, or share via PyPI or GitHub.
